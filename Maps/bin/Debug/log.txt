@@ -1,0 +1,673 @@
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+186.6.128.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.200	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.1.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.1.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.2	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.4	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.5	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.8	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.10	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.11	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.12	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.15	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.16	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.17	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.18	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.19	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.20	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.21	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.23	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.26	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.28	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.29	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.30	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.31	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.32	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.33	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.35	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.38	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.39	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.42	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.44	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.45	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.46	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.47	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.49	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.50	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.51	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.54	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.56	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.57	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.58	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.60	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.61	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.62	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.64	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.65	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.66	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.67	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.71	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.72	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.74	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.75	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.76	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.77	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.82	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.83	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.84	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.85	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.88	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.90	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.91	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.93	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.95	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.97	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.100	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.102	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.103	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.104	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.105	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.106	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.107	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.108	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.109	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.112	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.113	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.115	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.116	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.118	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.121	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.123	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.124	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.125	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.128	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.129	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.132	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.134	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.135	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.137	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.138	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.139	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.140	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.142	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.143	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.144	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.145	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.146	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.147	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.148	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.154	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.157	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.158	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.160	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.162	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.163	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.164	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.168	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.169	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.170	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.173	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.175	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.176	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.181	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.182	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.183	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.184	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.186	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.188	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.189	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.190	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.191	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.195	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.196	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.197	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.198	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.199	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.201	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.205	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.207	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.208	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.210	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.212	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.214	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.215	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.217	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.218	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.219	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.220	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.222	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.223	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.225	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.226	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.228	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.229	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.230	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.1.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+186.20.1.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS27836 Smartcom
+186.20.2.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS27836 Smartcom
+186.20.3.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS27836 Smartcom
+186.20.3.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS27836 Smartcom
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.5.3.1	Lat: -2.1667	Lon: -79.9	Region: Provincia del Guayas		City: Guayaquil		Isp:AS27947 Telconet S.A
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.5.3.1	Lat: -2.1667	Lon: -79.9	Region: Provincia del Guayas		City: Guayaquil		Isp:AS27947 Telconet S.A
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.4.3.1	Lat: 9.9333	Lon: -84.0833	Region: Provincia de San Jose		City: San José		Isp:AS20299 Newcom Limited
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.3.3.1	Lat: -0.2167	Lon: -78.5	Region: Provincia de Pichincha		City: Quito		Isp:AS27947 Telconet S.A
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.2.3.1	Lat: -16.5	Lon: -68.15	Region: Departamento de La Paz		City: La Paz		Isp:AS28024 Nuevatel PCS de Bolivia S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.1.3.1	Lat: 12.1508	Lon: -86.2683	Region: Departamento de Managua		City: Managua		Isp:AS18840 Y SISTEMAS S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.8.3.1	Lat: -34.8581	Lon: -56.1708	Region: Departamento de Montevideo		City: Montevideo		Isp:AS19422 Telefonica Moviles del Uruguay SA
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.10.3.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS6471 CHILE S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.11.3.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS27925 Entel PCS Telecomunicaciones S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.12.3.1	Lat: -30.95	Lon: -58.8	Region: Entre Rios		City: Federal		Isp:AS19037 Argentina S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.13.3.1	Lat: -30.95	Lon: -58.8	Region: Entre Rios		City: Federal		Isp:AS19037 Argentina S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.14.3.1	Lat: 9.5597	Lon: -69.2019	Region: Portuguesa		City: Acarigua		Isp:AS21826 Corporación Telemic C.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.18.3.1	Lat: -34.6033	Lon: -58.3816	Region: Buenos Aires F.D.		City: Buenos Aires		Isp:AS27747 Telecentro S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.19.3.1	Lat: -34.6333	Lon: -58.5667	Region: Buenos Aires		City: Ramos Mejia		Isp:AS27747 Telecentro S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.20.3.1	Lat: -33.45	Lon: -70.6667	Region: Santiago Metropolitan		City: Santiago		Isp:AS27836 Smartcom
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.30.3.1	Lat: 4.6492	Lon: -74.0628	Region: Bogota D.C.		City: Bogotá		Isp:AS19429 Colombia
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.50.3.1	Lat: -34.8581	Lon: -56.1708	Region: Departamento de Montevideo		City: Montevideo		Isp:AS6057 Administracion Nacional de Telecomunicaciones
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+187.50.3.1	Lat: -22.9031	Lon: -43.1844	Region: Rio de Janeiro		City: Rio de Janeiro		Isp:AS10429 Telefonica Data S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+187.50.3.1	Lat: -22.9031	Lon: -43.1844	Region: Rio de Janeiro		City: Rio de Janeiro		Isp:AS10429 Telefonica Data S.A.
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+189.50.3.1	Lat: -20.3167	Lon: -40.35	Region: Espirito Santo		City: Vitória		Isp:AS28323 VIPRede Telecomunicações Ltda
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+110.50.3.1	Lat: 35.4722	Lon: 133.0506	Region: Shimane		City: Matsue		Isp:AS23786 San-in Cable Vision CO.,LTD
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+200.50.3.1	Lat: 18.4208	Lon: -66.0616	Region: San Juan		City: San Juan		Isp:AS11992 Centennial de Puerto Rico
+186.50.3.1	Lat: -34.8581	Lon: -56.1708	Region: Departamento de Montevideo		City: Montevideo		Isp:AS6057 Administracion Nacional de Telecomunicaciones
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.128.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.8.3.1	Lat: -34.8581	Lon: -56.1708	Region: Departamento de Montevideo		City: Montevideo		Isp:AS19422 Telefonica Moviles del Uruguay SA
+186.8.3.1	Lat: -34.8581	Lon: -56.1708	Region: Departamento de Montevideo		City: Montevideo		Isp:AS19422 Telefonica Moviles del Uruguay SA
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.5.3.1	Lat: -2.1667	Lon: -79.9	Region: Provincia del Guayas		City: Guayaquil		Isp:AS27947 Telconet S.A
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.4.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.3.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.38.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.98.1	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.3.61	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.3.61	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.3.61	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.3.61	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.5	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.7	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.8	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.10	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.11	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.14	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.17	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.18	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.19	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.20	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.23	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.28	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.29	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.31	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.33	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.34	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.35	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.36	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.37	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.39	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.40	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.41	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.42	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.43	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.47	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.48	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.50	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.51	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.52	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.54	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.57	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.58	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.59	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.60	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.61	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.62	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.64	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.66	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.68	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.71	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.72	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.73	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.76	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.79	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.80	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.81	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.82	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.85	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.86	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.89	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.90	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.91	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.93	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.94	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.96	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.98	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.99	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.103	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.104	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.105	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.106	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.109	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.111	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.112	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.113	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.114	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.117	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.118	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.119	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.120	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.128	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.129	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.130	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.133	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.136	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.137	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.138	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.139	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.140	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.143	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.144	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.145	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.147	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.148	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.152	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.153	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.154	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.155	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.156	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.157	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.160	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.161	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.163	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.165	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.166	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.168	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.170	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.174	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.177	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.178	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.181	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.182	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.183	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.184	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.185	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.186	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.190	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.194	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.195	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.198	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.200	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.201	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.203	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.206	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.207	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.208	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.210	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.213	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.214	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.215	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.216	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.217	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.218	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.219	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.220	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.221	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.223	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.224	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.225	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.226	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.227	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.228	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.229	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.231	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.233	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.234	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.235	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.240	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.241	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.242	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.246	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+179.52.2.247	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañ�123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.1062	Lon: -97.6708	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+186.6.15.205	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+95.200.12.4	Lat: 57.1071	Lon: 12.2521	Region: Halland		City: Varberg		Isp:AS3301 TeliaSonera AB
+23.56.45.1	Lat: 42.3626	Lon: -71.0843	Region: Massachusetts		City: Cambridge		Isp:AS1239 Sprint
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+64.12.45.80	Lat: 39.0438	Lon: -77.4874	Region: Virginia		City: Ashburn		Isp:AS1668 AOL Transit Data Network
+192.45.1.8	Lat: 33.8743	Lon: -118.3721	Region: California		City: Redondo Beach		Isp:AS1906 Northrop Grumman
+202.53.46.10	Lat: -33.8678	Lon: 151.2073	Region: New South Wales		City: Sydney		Isp:AS2764 AAPT Limited
+71.53.89.100	Lat: 31.2164	Lon: -97.7418	Region: Texas		City: Killeen		Isp:AS209 Qwest Communications Company, LLC
+180.90.45.1	Lat: 39.9289	Lon: 116.3883	Region: Beijing Shi		City: Beijing		Isp:AS7497 Computer Network Information Center
+8.8.8.8	Lat: 37.3845	Lon: -122.0881	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+208.80.154.224	Lat: 37.7898	Lon: -122.3942	Region: California		City: San Francisco		Isp:AS14907 Wikimedia Foundation Inc.
+173.194.115.71	Lat: 37.4192	Lon: -122.0574	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
+104.43.195.251	Lat: 47.6801	Lon: -122.1206	Region: Washington		City: Redmond		Isp:AS8075 Microsoft Corporation
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+208.80.154.224	Lat: 37.7898	Lon: -122.3942	Region: California		City: San Francisco		Isp:AS14907 Wikimedia Foundation Inc.
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+123.54.26.32	Lat: 34.6836	Lon: 113.5325	Region: Henan Sheng		City: Zhengzhou		Isp:AS4134 Chinanet
+45.123.2.56	Lat: 13.036	Lon: 80.2188	Region: Tamil Nadu		City: Chennai (West Mambalam)		Isp:AS132556 Blue Lotus Support Services Pvt Ltd
+32.40.21.3	Lat: 40.3965	Lon: -74.1075	Region: New Jersey		City: Middletown		Isp:AS2686 AT&T Global Network Services, LLC
+94.245.121.251	Lat: 51.5085	Lon: -0.125487	Region: England		City: London		Isp:AS8075 Microsoft Corporation
+	Lat: 0	Lon: 0	Region: 		City: 		Isp:
+185.70.40.182	Lat: 46.2122	Lon: 6.1446	Region: Geneva		City: Geneva (Pâquis-Temple)		Isp:AS198949 Value Solutions Binat-Rad Group Ltd
+185.70.40.182	Lat: 46.2122	Lon: 6.1446	Region: Geneva		City: Geneva (Pâquis-Temple)		Isp:AS198949 Value Solutions Binat-Rad Group Ltd
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.6.82.187	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.6.82.187	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.6.82.187	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.6.82.187	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.6.82.187	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS6400 Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+186.150.233.237	Lat: 18.4667	Lon: -69.9	Region: Nacional		City: Santo Domingo		Isp:AS12066 TRICOM
+208.80.154.224	Lat: 37.7898	Lon: -122.3942	Region: California		City: San Francisco		Isp:AS14907 Wikimedia Foundation, Inc.
+216.58.219.206	Lat: 37.4192	Lon: -122.0574	Region: California		City: Mountain View		Isp:AS15169 Google Inc.
